@@ -1,3 +1,4 @@
+//blah
 var page = require('webpage').create(),
     system = require('system'),
     fs = require('fs'),
